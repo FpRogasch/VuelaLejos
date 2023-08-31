@@ -15,13 +15,13 @@
 }
 
 .dest-btn {
-    border: #1b0088 solid 2px;
-    background-color: #1b0088;
-    color: white;
+    border: #ff3d19 solid 2px;
+    color: #ff3d19;
     padding: 9px 15px;
 }
 
 .dest-btn:hover {
-    border: #ff3d19 solid 2px;
-    color: #ff3d19;
+    border: #1b0088 solid 2px;
+    background-color: #1b0088;
+    color: white;
 }
